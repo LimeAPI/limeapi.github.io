@@ -59,8 +59,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/resto-mcp-server.git
-cd resto-mcp-server
+git clone https://github.com/IrshaGlobal/resto.git
+cd resto
 
 # Install dependencies
 npm install
